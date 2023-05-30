@@ -40,17 +40,24 @@
 - ⚙️ EditorConfig - Consistent coding styles across editors and IDEs
 - 🗂 Path Mapping — Import components or images using the `@` prefix
 
+## Added Features
+
+- 📓 Pino Logger
+- 🍀 MongoDB
+- 🧪 Jest & React Testing Library
+- 🦋 TailwindCSS
+
 ## Quick Start
 
 The best way to start with this template is using [Create Next App](https://nextjs.org/docs/api-reference/create-next-app).
 
 ```
 # yarn
-yarn create next-app -e https://github.com/jpedroschmitz/typescript-nextjs-starter
+yarn create next-app -e https://github.com/m7mdtiger/typescript-nextjs-starter
 # npm
-npx create-next-app -e https://github.com/jpedroschmitz/typescript-nextjs-starter
+npx create-next-app -e https://github.com/m7mdtiger/typescript-nextjs-starter
 # pnpm
-pnpm create next-app -e https://github.com/jpedroschmitz/typescript-nextjs-starter
+pnpm create next-app -e https://github.com/m7mdtiger/typescript-nextjs-starter
 ```
 
 ### Development
